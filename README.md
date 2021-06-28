@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BrianKiarieMwaniki
-- 👀 I’m interested in anything to do with Java Programming,Spring and Spring Boot, Web Development and Dart-especially the Flutter framework.
-- 💞️ I’m looking to collaborate on anything java related, dart related and web dev related.
+- 👀 I’m interested in anything to do with C#, .NET, ASP.NET and Blazor.
 - 📫 How to reach me via my email:briank.mwaniki@gmail.com
 
 <!---
