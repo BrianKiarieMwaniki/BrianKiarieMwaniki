@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrianKiarieMwaniki
-- 👀 I’m interested in anything to do with C#, .NET, ASP.NET and Blazor.
+- 👀 I’m interested in  C#, .NET, ASP.NET and Blazor, Javascript, ReactJs, NodeJs, express.
 - 📫 How to reach me via my email:briank.mwaniki@gmail.com
 
 <!---
