@@ -5,10 +5,16 @@
 
 
 ## 💼 Tech Stack
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![Nodejs](https://img.shields.io/badge/-NodeJs-green?&style=for-the-badge&logo=Node.Js&logoColor=61DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![Nodejs](https://img.shields.io/badge/-NodeJs-green?&style=for-the-badge&logo=Node.Js&logoColor=61DAFB) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![ExpressJs](https://img.shields.io/badge/-Express-white?&style=for-the-badge&logo=Express&logoColor=black) 
+
+![C#](https://img.shields.io/badge/-CSharp-1857B6?style=for-the-badge&logo=CSharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white) ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white)
+
+![MsSQL](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=SQLite&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?&style=for-the-badge&logo=VisualStudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)  ![Windows](https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?&style=for-the-badge&logo=Netlify&logoColor=white)
 
 ## 💬 Connect with me : 
 
