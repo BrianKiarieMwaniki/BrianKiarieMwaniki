@@ -2,6 +2,7 @@
 
 - 👀 Software development is my passion.
 - 📫 Connect with  me on my socials linked below 💬.
+- 🥇[portfolio](https://www.briankiariemwaniki.dev)
 
 
 ## 💼 Tech Stack
