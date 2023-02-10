@@ -38,4 +38,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## What I'm Currently Learning:
-- Microservices with .NET
+- Building Microservices .NET 7.0
