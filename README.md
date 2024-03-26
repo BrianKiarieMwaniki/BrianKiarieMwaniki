@@ -22,7 +22,7 @@
 
 ## ⚒️ Tools
 
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?&style=for-the-badge&logo=VisualStudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)  ![Windows](https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FC6C37?&style=for-the-badge&logo=Postman&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?&style=for-the-badge&logo=VisualStudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)  ![Windows](https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FC6C37?&style=for-the-badge&logo=Postman&logoColor=white) 
 
 
 ## 💬 Connect with me : 
@@ -30,9 +30,11 @@
 <a href="https://www.linkedin.com/in/brian-kiarie-097b1b20b">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
 </a>
+
 <a href="https://twitter.com/Brian_mwaniki_k">
   <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
 </a>
+
 <a href="mailto:briank.mwaniki@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a>
