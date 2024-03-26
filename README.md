@@ -6,17 +6,19 @@
 
 
 ## 💼 Tech Stack
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white)  ![Nodejs](https://img.shields.io/badge/-NodeJs-green?&style=for-the-badge&logo=Node.Js&logoColor=61DAFB) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![ExpressJs](https://img.shields.io/badge/-Express-white?&style=for-the-badge&logo=Express&logoColor=black) ![NextJs](https://img.shields.io/badge/-nextjs-black?&style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white)  ![Nodejs](https://img.shields.io/badge/-NodeJs-green?&style=for-the-badge&logo=Node.Js&logoColor=61DAFB) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white) ![NextJs](https://img.shields.io/badge/-nextjs-black?&style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ![C#](https://img.shields.io/badge/-CSharp-1857B6?style=for-the-badge&logo=CSharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NETCore-512BD4?style=for-the-badge&logo=.NET&logoColor=white) ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white) ![MicroServices](https://img.shields.io/badge/-microservices-512BD4?style=for-the-badge&logo=microservices&logoColor=white) ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=for-the-badge&logo=LINQ&logoColor=white) ![WinForms](https://img.shields.io/badge/-WinForms-512BD4?style=for-the-badge&logo=winforms&logoColor=white) 
 ![EntityFramework](https://img.shields.io/badge/-EntityFramework-512BD4?style=for-the-badge&logo=efcore&logoColor=white)  ![XUnit](https://img.shields.io/badge/-xunit-512BD4?style=for-the-badge&logo=xunit&logoColor=white)
 
-![MsSQL](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=SQLite&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MsSQL](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=SQLite&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white) ![TailwindCss](https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![Azure](https://img.shields.io/badge/-Azure-0078D7?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?&style=for-the-badge&logo=Netlify&logoColor=white) 
+
+![Git](https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azuredevops-0078D7?&style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
 
 ## ⚒️ Tools
 
@@ -38,6 +40,3 @@
 BrianKiarieMwaniki/BrianKiarieMwaniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## What I'm Currently Learning:
-- Building Microservices .NET 7.0
